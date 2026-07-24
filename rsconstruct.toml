@@ -1,2 +1,2 @@
 [processor.terms]
-src_dirs = []
+src_dirs = ["."]
